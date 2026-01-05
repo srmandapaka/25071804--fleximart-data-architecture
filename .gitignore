@@ -11,6 +11,8 @@ venv/
 *.so
 
 # Distribution / packaging
+.csv
+.json
 .Python
 build/
 develop-eggs/
@@ -51,3 +53,4 @@ pytestdebug.log
 # Environment variables
 .env
 *.log
+
