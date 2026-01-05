@@ -1,17 +1,19 @@
-# Ignore all CSV and JSON files
-*.csv
-*.json
-
-# Python-specific ignores (common practice)
-# compiled python files
-__pycache__/
+# Byte-code files
 *.pyc
-*.pyd
-*.pyo
+__pycache__/
 
-# virtual environment
-venv/
+# Virtual environment
 .venv/
+venv/
 
-# misc
-.DS_Store # macOS specific file
+# IDE-specific files (optional, uncomment as needed)
+# .vscode/
+# .idea/
+
+# Temporary files created by editors
+*~
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
