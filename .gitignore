@@ -1,19 +1,20 @@
-# Byte-code files
-*.pyc
+# Python
 __pycache__/
-
-# Virtual environment
-.venv/
+*.pyc
+.env
 venv/
 
-# IDE-specific files (optional, uncomment as needed)
-# .vscode/
-# .idea/
+# IDE
+.vscode/
+.idea/
 
-# Temporary files created by editors
-*~
+# OS
+.DS_Store
+Thumbs.db
 
-# Python build artifacts
-build/
-dist/
-*.egg-info/
+# Database
+*.db
+*.log
+
+# Large files
+*.zip
