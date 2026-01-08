@@ -1,0 +1,3 @@
+{'Record Count': 41, 'Duplicate Rows': 1, 'Null Count': ['quantity', 'unit_price'], 'Insert Count': 40}
+{'Record Count': 26, 'Duplicate Rows': 1, 'Null Count': [], 'Insert Count': 25}
+{'Record Count': 20, 'Duplicate Rows': 0, 'Null Count': ['price', 'stock_quantity'], 'Insert Count': 20}
